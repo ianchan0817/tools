@@ -93,27 +93,6 @@
             </div>
             <div class="row">
                 <div class="row">
-		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-		<!-- 336x280 -->
-		<ins class="adsbygoogle"
-		style="display:inline-block;width:336px;height:280px"
-		data-ad-client="ca-pub-0682539758979030"
-		data-ad-slot="4406040812"></ins>
-		<script>
-		(adsbygoogle = window.adsbygoogle || []).push({});
-		</script>
-                
-		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                <!-- responsive  -->
-                <ins class="adsbygoogle"
-                     style="display:block"
-                     data-ad-client="ca-pub-0682539758979030"
-                     data-ad-slot="8438104414"
-                     data-ad-format="auto"></ins>
-                <script>
-                (adsbygoogle = window.adsbygoogle || []).push({});
-                </script>
-
                     <div class="form-group col-xs-12 floating-label-form-group text-center">
                         <label for="timestamp">Unix Timestamp</label>
                         <input class="form-control" type="text" name="timestamp" placeholder="Unix Timestamp" id="timestamp" >
